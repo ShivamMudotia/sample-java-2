@@ -62,7 +62,7 @@ pipeline
                   "files": [
                   {
                     "pattern": "*.war",
-                    "target": "sonar-artifactory-sample/"
+                    "target": "sonar-artifactory-sample-2/"
                   }
                  ]
                }''',
